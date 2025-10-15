@@ -1,0 +1,3 @@
+include README.md
+include LICENSE
+recursive-include apache_airflow_provider_ovhcloud_ai *.py
