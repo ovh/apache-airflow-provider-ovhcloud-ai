@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: Apache-2.0
 from typing import Any, Dict, List, Optional, Union
 import requests
 from airflow.sdk.bases.hook import BaseHook

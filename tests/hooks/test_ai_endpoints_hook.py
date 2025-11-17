@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: Apache-2.0
 from unittest import mock
 from apache_airflow_provider_ovhcloud_ai.hooks.ai_endpoints import OVHCloudAIEndpointsHook
 
