@@ -1,0 +1,40 @@
+[project]
+site_name = "Apache Airflow Provider for OVHcloud AI"
+site_url = "https://ovh.github.io/apache-airflow-provider-ovhcloud-ai"
+site_description = "Apache Airflow integration with OVHcloud AI products"
+site_author = "OVHcloud"
+repo_url = "https://github.com/ovh/apache-airflow-provider-ovhcloud-ai"
+nav = [
+    { "Home" = "index.md" },
+    { "Getting started" = "getting-started.md"},
+    { "API Reference" = "api-reference.md"},
+    {"AI Products" = [
+        { "AI Endpoints" = "ai-endpoints.md"},
+        { "AI Training" = "ai-training.md"},
+    ]},
+]
+
+
+[project.theme]
+logo = "assets/logo.svg"
+favicon = "assets/favicon.svg"
+features = [
+    "content.code.copy",
+    "navigation.sections"
+]
+
+[theme]
+palette = { scheme = "slate", primary = "indigo", accent = "blue" }
+font = { text = "Roboto", code = "Roboto Mono" }
+features = [
+    "navigation.instant",
+    "navigation.tabs",
+    "navigation.sections",
+    "content.code.copy",
+    "content.code.annotate",
+]
+
+[extra]
+repo_url = "https://github.com/ovh/apache-airflow-provider-ovhcloud-ai"
+repo_name = "ovh/apache-airflow-provider-ovhcloud-ai"
+

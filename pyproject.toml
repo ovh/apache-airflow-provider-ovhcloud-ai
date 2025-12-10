@@ -39,6 +39,7 @@ dev = [
     "black>=22.0",
     "flake8>=4.0",
     "mypy>=0.950",
+    "zensical>=0.0.11",
 ]
 
 [project.urls]
