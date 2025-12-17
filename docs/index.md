@@ -145,7 +145,7 @@ with DAG(
 
 - Python >= 3.8
 - Apache Airflow >= 2.3.0
-- An OVHcloud account with AI products enabled
+- An OVHcloud account with a Public Cloud project
 
 ---
 
@@ -154,7 +154,7 @@ with DAG(
 - 📖 [GitHub Repository](https://github.com/ovh/apache-airflow-provider-ovhcloud-ai)
 - 🐛 [Issue Tracker](https://github.com/ovh/apache-airflow-provider-ovhcloud-ai/issues)
 - 💬 [Discussions](https://github.com/ovh/apache-airflow-provider-ovhcloud-ai/discussions)
-- 🌐 [OVHcloud AI Documentation](https://help.ovhcloud.com/csm/en-public-cloud-ai-machine-learning)
+- 🌐 [OVHcloud AI Documentation](https://help.ovhcloud.com/csm/en-ie-documentation-public-cloud-ai-and-machine-learning?id=kb_browse_cat&kb_id=574a8325551974502d4c6e78b7421938&kb_category=1f34d555f49801102d4ca4d466a7fd7d&spa=1)
 
 ---
 
